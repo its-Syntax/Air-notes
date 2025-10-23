@@ -1,0 +1,9 @@
+@import './base.css';
+
+/* Keep globals minimal so the Air Notes component controls layout */
+html, body, #app { height: 100%; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji"; }
+#app { min-height: 100%; }
+
+a { color: #ffb400; text-decoration: none; }
+a:hover { text-decoration: underline; }
