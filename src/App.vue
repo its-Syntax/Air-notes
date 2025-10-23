@@ -6,7 +6,7 @@ const VERSION = __APP_VERSION__
 <template>
   <AirNotes />
   <footer class="credits">
-    <span>Air Notes - for virtual pilots</span>
+    <span>AirNotes - for virtual pilots</span>
     <span class="version">v{{ VERSION }}</span>
   </footer>
 </template>

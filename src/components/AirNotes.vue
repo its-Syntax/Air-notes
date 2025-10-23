@@ -80,7 +80,7 @@ const arrivalFields = [
         <svg class="logo" viewBox="0 0 64 64" aria-hidden="true">
           <path d="M6 40l52-16-2-6-21 6-8-10-5 1 6 11-17 5-5 9 6-1 5-6 9-2 7 5-9 9 5 2 12-11 12 2 4-4-16-3-10-7" stroke="currentColor" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
         </svg>
-        <h1>Air Notes</h1>
+        <h1>AirNotes</h1>
       </div>
       <div class="actions">
         <button class="ghost" @click="resetAll" title="Clear all fields">Reset</button>

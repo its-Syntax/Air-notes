@@ -1,4 +1,4 @@
-Air Notes
+AirNotes
 =========
 
 Fast, simple flight notes for virtual pilots. The app runs entirely in the browser and stores your data locally via localStorage, so your notes persist between sessions.
@@ -34,4 +34,4 @@ Data & Privacy
 - Clear data: use the Reset button in the UI, or remove the localStorage key via devtools.
 
 License
-- Copyright (c) 2025 Air Notes contributors. All rights reserved.
+- Copyright (c) 2025 AirNotes contributors. All rights reserved.
