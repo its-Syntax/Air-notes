@@ -6,14 +6,6 @@ Test it out here: https://its-syntax.github.io/Air-notes/
 
 ![Air Notes screenshot](docs/screenshot.PNG)
 
-Contents
-- Overview
-- Features
-- Tech & Requirements
-- Data & Privacy
-- Changelog
-- License
-
 Overview
 - Lightweight form for Departure and Arrival.
 - Auto‑save as you type (localStorage).
@@ -23,11 +15,6 @@ Overview
 Features
 - Fields for callsign, ATIS, QNH, RWY, SID/STAR, approach, taxi, and notes.
 - No server, no accounts — everything stays in your browser.
-
-Tech & Requirements
-- Vue 3 (Composition API)
-- Vite 7
-- Node.js 20.x or newer (see engines in package.json)
 
 Data & Privacy
 - Storage: localStorage under the key air-notes:v1
