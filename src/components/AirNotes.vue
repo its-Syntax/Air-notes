@@ -55,17 +55,17 @@ function resetAll() {
 
 const departureFields = [
   { key: 'callsign', label: 'Callsign ✈️', placeholder: 'SAS123' },
-  { key: 'atis', label: 'ATIS Info 📻', placeholder: 'ATIS X, RWY 01' },
+  { key: 'atis', label: 'ATIS Info 📻', placeholder: 'ATIS X' },
   { key: 'stand', label: 'Stand 🅿️', placeholder: 'A12' },
   { key: 'qnh', label: 'QNH 🧭', placeholder: '1013' },
   { key: 'rwy', label: 'RWY 🛫', placeholder: '01L' },
   { key: 'sid', label: 'SID 🧭', placeholder: 'OSL1A' },
   { key: 'initial', label: 'Init Alt ⬆️', placeholder: '5000' },
-  { key: 'squawk', label: 'Squawk 📟', placeholder: '4701' }
+  { key: 'squawk', label: 'Squawk 📟', placeholder: '2000' }
 ]
 
 const arrivalFields = [
-  { key: 'atis', label: 'ATIS Info 📻', placeholder: 'ATIS Y, RWY 19' },
+  { key: 'atis', label: 'ATIS Info 📻', placeholder: 'ATIS Y' },
   { key: 'qnh', label: 'QNH 🧭', placeholder: '1015' },
   { key: 'rwy', label: 'RWY 🛬', placeholder: '19R' },
   { key: 'star', label: 'STAR 🧭', placeholder: 'KISTO2A' },
