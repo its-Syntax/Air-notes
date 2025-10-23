@@ -3,6 +3,8 @@ Air Notes
 
 Fast, simple flight notes for virtual pilots. The app runs entirely in the browser and stores your data locally via localStorage, so your notes persist between sessions.
 
+![Air Notes screenshot](docs/screenshot.png)
+
 Contents
 - Overview
 - Features
