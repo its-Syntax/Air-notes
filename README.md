@@ -10,8 +10,7 @@ Contents
 - Features
 - Tech & Requirements
 - Data & Privacy
-- Deployment
-- Roadmap
+- License
 
 Overview
 - Lightweight form for Departure and Arrival.
@@ -32,3 +31,6 @@ Data & Privacy
 - Storage: localStorage under the key air-notes:v1
 - No external requests or server storage. Everything runs locally in the browser.
 - Clear data: use the Reset button in the UI, or remove the localStorage key via devtools.
+
+License
+- Copyright (c) 2025 Air Notes contributors. All rights reserved.
