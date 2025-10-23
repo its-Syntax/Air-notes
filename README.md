@@ -11,6 +11,7 @@ Contents
 - Features
 - Tech & Requirements
 - Data & Privacy
+- Changelog
 - License
 
 Overview
@@ -32,6 +33,14 @@ Data & Privacy
 - Storage: localStorage under the key air-notes:v1
 - No external requests or server storage. Everything runs locally in the browser.
 - Clear data: use the Reset button in the UI, or remove the localStorage key via devtools.
+
+Changelog
+- 0.1.0 - 2025-10-23
+  - Initial release
+  - Lightweight form for Departure and Arrival
+  - Auto-save to localStorage as you type
+  - One-click Reset to clear all fields
+  - Minimal UI focused on readability and speed
 
 License
 - Copyright (c) 2025 AirNotes contributors. All rights reserved.
